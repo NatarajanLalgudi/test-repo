@@ -7,6 +7,7 @@ This is a test repo for learning purpose.
 
 Coming soon...
 
-# New changes
+New Changes
+===========
 
-Changes
+#some more changes are done
